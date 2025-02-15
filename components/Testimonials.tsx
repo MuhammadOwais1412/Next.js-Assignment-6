@@ -16,7 +16,7 @@ const Testimonials = () => {
 
                     <div className="w-[362.67px] h-[321.89px] border border-black p-8">
                         <section><Image src={"/icons/Stars.svg"} alt="Stars" width={116} height={18.89} /></section>
-                        <section className="w-[298.67px] h-[135] text-lg mt-[18px]"><p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."</p></section>
+                        <section className="w-[298.67px] h-[135] text-lg mt-[18px]"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.</p></section>
                         <section className="flex items-center"><Image src={"/images/Avatar-1.svg"} alt="Avatar" width={56} height={56} />
                             <div className="p-5">
                                 <p className="font-semibold">James Nduku</p>
@@ -27,7 +27,7 @@ const Testimonials = () => {
 
                     <div className="hidden md:block w-[362.67px] h-[321.89px] border border-black p-8">
                         <section><Image src={"/icons/Stars.svg"} alt="Stars" width={116} height={18.89} /></section>
-                        <section className="w-[298.67px] h-[135] text-lg mt-[18px]"><p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."</p></section>
+                        <section className="w-[298.67px] h-[135] text-lg mt-[18px]"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.</p></section>
                         <section className="flex"><Image src={"/images/Avatar-2.svg"} alt="Avatar" width={56} height={56} />
                             <div className="p-5">
                                 <p className="font-semibold">Erick Kipkemboi</p>
@@ -38,7 +38,7 @@ const Testimonials = () => {
 
                     <div className="hidden md:block w-[362.67px] h-[321.89px] border border-black p-8">
                         <section><Image src={"/icons/Stars.svg"} alt="Stars" width={116} height={18.89} /></section>
-                        <section className="w-[298.67px] h-[135] text-lg mt-[18px]"><p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."</p></section>
+                        <section className="w-[298.67px] h-[135] text-lg mt-[18px]"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.</p></section>
                         <section className="flex "><Image src={"/images/Avatar-3.svg"} alt="Avatar" width={56} height={56} />
                             <div className="p-5">
                                 <p className="font-semibold">Stephen Kerubo</p>
